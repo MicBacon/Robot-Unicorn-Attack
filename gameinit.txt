@@ -1,0 +1,21 @@
+3
+280 160 0
+200 80 200
+80 180 -280
+4
+1280 250 1010
+1000 120 1100
+650 70 755
+650 70 810
+
+1280
+720
+------------------------------------------------------------------------------
+
+ADDITIONAL ELEMENTS:
+- domyślne sterowanie jednorożcem (przełączenie trybu sterowania, skok, zryw)
+- wiszące platformy
+- przeszokdy na platofrmach
+- stalaktyty
+- kolizje
+- kodowanie wyglądu etapu gry
